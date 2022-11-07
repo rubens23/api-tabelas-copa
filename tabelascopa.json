@@ -1,1 +1,50 @@
-
+[
+  {
+      "grupo": "A",
+      "time1": {"nome": "Catar",
+                "posicao": 1,
+                "pontos": 0,
+                "jogos": 0,
+                "vitorias": 0,
+                "empates": 0,
+                "derrotas": 0,
+                "gols_pro": 0,
+                "gols_contra": 0,
+                "aproveitamento": 0
+               },
+    "time2": {"nome":"Equador",
+              "posicao": 1,
+              "pontos": 0,
+                "jogos": 0,
+                "vitorias": 0,
+                "empates": 0,
+                "derrotas": 0,
+                "gols_pro": 0,
+                "gols_contra": 0,
+                "aproveitamento": 0
+               },
+    "time3": {"nome":"Holanda",
+              "posicao": 1,
+              "pontos": 0,
+                "jogos": 0,
+                "vitorias": 0,
+                "empates" 0,
+                "derrotas": 0,
+                "gols_pro": 0,
+                "gols_contra": 0,
+                "aproveitamento": 0
+               },
+    "time4": {"nome": "Senegal",
+              "posicao": 1,
+              "pontos": 0,
+                "jogos": 0,
+                "vitorias": 0,
+                "empates": 0,
+                "derrotas": 0,
+                "gols_pro": 0,
+                "gols_contra": 0,
+                "aproveitamento": 0
+               }
+      
+    }
+    ]
