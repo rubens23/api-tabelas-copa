@@ -2,6 +2,7 @@
   {
       "grupo": "A",
       "time1": {"nome": "Catar",
+                "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/qa.webp",
                 "posicao": 1,
                 "pontos": 0,
                 "jogos": 0,
@@ -14,6 +15,7 @@
                 "aproveitamento": 0
                },
     "time2": {"nome":"Equador",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ec.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -26,6 +28,7 @@
                 "aproveitamento": 0
                },
     "time3": {"nome":"Holanda",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/nl.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -38,6 +41,7 @@
                 "aproveitamento": 0
                },
     "time4": {"nome": "Senegal",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/sn.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -54,6 +58,7 @@
   {
       "grupo": "B",
       "time1": {"nome": "Estados Unidos",
+                "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/us.webp",
                 "posicao": 1,
                 "pontos": 0,
                 "jogos": 0,
@@ -66,6 +71,7 @@
                 "aproveitamento": 0
                },
     "time2": {"nome":"Inglaterra",
+               "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/255px-Flag_of_England.svg.png",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -78,6 +84,7 @@
                 "aproveitamento": 0
                },
     "time3": {"nome":"Irã",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ir.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -90,6 +97,7 @@
                 "aproveitamento": 0
                },
     "time4": {"nome": "País de Gales",
+               "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/255px-Flag_of_Wales.svg.png",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -106,6 +114,7 @@
   {
       "grupo": "C",
       "time1": {"nome": "Argentina",
+                "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ar.webp",
                 "posicao": 1,
                 "pontos": 0,
                 "jogos": 0,
@@ -118,6 +127,7 @@
                 "aproveitamento": 0
                },
     "time2": {"nome":"Arábia Saudita",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/sa.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -130,6 +140,7 @@
                 "aproveitamento": 0
                },
     "time3": {"nome":"México",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/mx.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -142,6 +153,7 @@
                 "aproveitamento": 0
                },
     "time4": {"nome": "Polônia",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/pl.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -158,6 +170,7 @@
    {
       "grupo": "D",
       "time1": {"nome": "Austrália",
+                "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/au.webp",
                 "posicao": 1,
                 "pontos": 0,
                 "jogos": 0,
@@ -170,6 +183,7 @@
                 "aproveitamento": 0
                },
     "time2": {"nome":"Dinamarca",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/dk.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -182,6 +196,7 @@
                 "aproveitamento": 0
                },
     "time3": {"nome":"França",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/fr.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -194,6 +209,7 @@
                 "aproveitamento": 0
                },
     "time4": {"nome": "Tunísia",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/tn.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -210,6 +226,7 @@
    {
       "grupo": "E",
       "time1": {"nome": "Alemanha",
+                "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/de.webp",
                 "posicao": 1,
                 "pontos": 0,
                 "jogos": 0,
@@ -222,6 +239,7 @@
                 "aproveitamento": 0
                },
     "time2": {"nome":"Costa Rica",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/cr.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -234,6 +252,7 @@
                 "aproveitamento": 0
                },
     "time3": {"nome":"Espanha",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/es.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -246,6 +265,7 @@
                 "aproveitamento": 0
                },
     "time4": {"nome": "Japão",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/jp.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -262,6 +282,7 @@
    {
       "grupo": "F",
       "time1": {"nome": "Bélgica",
+                "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/be.webp",
                 "posicao": 1,
                 "pontos": 0,
                 "jogos": 0,
@@ -274,6 +295,7 @@
                 "aproveitamento": 0
                },
     "time2": {"nome":"Canadá",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ca.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -286,6 +308,7 @@
                 "aproveitamento": 0
                },
     "time3": {"nome":"Croácia",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/hr.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -298,6 +321,7 @@
                 "aproveitamento": 0
                },
     "time4": {"nome": "Marrocos",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ma.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -314,6 +338,7 @@
   {
       "grupo": "G",
       "time1": {"nome": "Brasil",
+                "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp",
                 "posicao": 1,
                 "pontos": 0,
                 "jogos": 0,
@@ -326,6 +351,7 @@
                 "aproveitamento": 0
                },
     "time2": {"nome":"Camarões",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/cm.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -338,6 +364,7 @@
                 "aproveitamento": 0
                },
     "time3": {"nome":"Suíça",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ch.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -350,6 +377,7 @@
                 "aproveitamento": 0
                },
     "time4": {"nome": "Sérvia",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/rs.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -366,6 +394,7 @@
   {
       "grupo": "H",
       "time1": {"nome": "Coreia do Sul",
+                "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/kr.webp",
                 "posicao": 1,
                 "pontos": 0,
                 "jogos": 0,
@@ -378,6 +407,7 @@
                 "aproveitamento": 0
                },
     "time2": {"nome":"Gana",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/gh.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -390,6 +420,7 @@
                 "aproveitamento": 0
                },
     "time3": {"nome":"Portugal",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/pt.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
@@ -402,6 +433,7 @@
                 "aproveitamento": 0
                },
     "time4": {"nome": "Uruguai",
+              "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/uy.webp",
               "posicao": 1,
               "pontos": 0,
                 "jogos": 0,
