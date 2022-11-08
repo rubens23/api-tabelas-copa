@@ -10,6 +10,7 @@
                 "derrotas": 0,
                 "gols_pro": 0,
                 "gols_contra": 0,
+                "saldo_gols": 0,
                 "aproveitamento": 0
                },
     "time2": {"nome":"Equador",
@@ -21,6 +22,7 @@
                 "derrotas": 0,
                 "gols_pro": 0,
                 "gols_contra": 0,
+              "saldo_gols": 0,
                 "aproveitamento": 0
                },
     "time3": {"nome":"Holanda",
@@ -32,6 +34,7 @@
                 "derrotas": 0,
                 "gols_pro": 0,
                 "gols_contra": 0,
+              "saldo_gols": 0,
                 "aproveitamento": 0
                },
     "time4": {"nome": "Senegal",
@@ -43,6 +46,7 @@
                 "derrotas": 0,
                 "gols_pro": 0,
                 "gols_contra": 0,
+              "saldo_gols": 0,
                 "aproveitamento": 0
                }
       
