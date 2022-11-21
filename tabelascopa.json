@@ -79,8 +79,8 @@
                 "empates": 0,
                 "derrotas": 0,
                 "gols_pro": 6,
-                "gols_contra": 1,
-              "saldo_gols": 5,
+                "gols_contra": 2,
+              "saldo_gols": 4,
                 "aproveitamento": 100
                },
     "time4": {"nome":"Irã",
@@ -91,9 +91,9 @@
                 "vitorias": 0,
                 "empates": 0,
                 "derrotas": 1,
-                "gols_pro": 1,
+                "gols_pro": 2,
                 "gols_contra": 6,
-              "saldo_gols": -5,
+              "saldo_gols": -4,
                 "aproveitamento": 0
                },
     "time3": {"nome": "País de Gales",
